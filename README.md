@@ -12,7 +12,7 @@
 
 ### Languages and Tools:
 
-<p align="left">
+<p>
 <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="26" align="left"/>
 <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="26" align="left"/>
 <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="26" align="left"/>
@@ -24,7 +24,7 @@
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="26" align="left"/>
 <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="26" align="left"/>
 </p>
-  <p align="left">
+  <p>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="26" align="left"/>
 <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="26" align="left"/>
 <img src="https://www.w3.org/html/" alt="html5" width="26" align="left"/>
@@ -36,7 +36,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="26" align="left"/>
 <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="26" align="left"/>
     </p>
-    <p align="left">
+    <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="26" align="left"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="26" align="left"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="26" align="left"/>
@@ -46,7 +46,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="26" align="left"/>
 <img src="https://sass-lang.com" alt="sass" width="26" align="left"/>
       </p>
-      <p align="left">
+      <p>
 <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="26" align="left"/>
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="26" align="left"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="26" align="left"/>
