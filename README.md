@@ -1,4 +1,4 @@
-### Hello World, I'm Shubham Kr. Singh 👋
+### Hello, I'm Shubham Kr. Singh 👋
 
 ## I'm a Developer, Creator, and Mentor!!
 
