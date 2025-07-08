@@ -30,7 +30,7 @@
 
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="26" align="left"/>
 <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="26" align="left"/>
-<img src="https://www.w3.org/html/" alt="html5" width="26" align="left"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="26" align="left"/>
 <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="26" align="left"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="26" align="left"/>
 <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="26" align="left"/>
