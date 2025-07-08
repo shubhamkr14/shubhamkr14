@@ -32,7 +32,7 @@
 <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="26" height="26" align="left"/>
 <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="26" height="26" align="left"/>
 <img src="https://www.w3schools.com/css/" alt="css3" width="26" height="26" align="left"/>
-<img src="https://d3js.org/" alt="d3js" width="26" height="26" align="left"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="26" height="26" align="left"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="26" height="26" align="left"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="26" height="26" align="left"/>
 <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="26" height="26" align="left"/>
@@ -62,7 +62,7 @@
 ### Testing & Development Tools
 
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="26" height="26" align="left"/>
-<img src="https://jestjs.io" alt="jest" width="26" height="26" align="left"/>
+<img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="26" height="26" align="left"/>
 <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="26" height="26" align="left"/>
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="26" height="26" align="left"/>
 
@@ -71,10 +71,10 @@
 ### Design & Creative Tools
 
 
-<img src="https://www.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="26" height="26" align="left"/>
+<img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="26" height="26" align="left"/>
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="26" height="26" align="left"/>
 <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="26" height="26" align="left"/>
-<img src="https://www.adobe.com/in/products/illustrator.html" alt="illustrator" width="26" height="26" align="left"/>
+<img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="26" height="26" align="left"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="26" height="26" align="left"/>
 <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="26" height="26" align="left"/>
 <img src="https://helpx.adobe.com/content/dam/help/mnemonics/xd_app_RGB_2017.svg" alt="xd" width="26" height="26" align="left"/>
