@@ -61,7 +61,7 @@
 
 ### Testing & Development Tools
 
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="26" height="26"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="26" height="26" align="left"/>
 <img src="https://jestjs.io" alt="jest" width="26" height="26" align="left"/>
 <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="26" height="26" align="left"/>
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="26" height="26" align="left"/>
