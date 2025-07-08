@@ -23,6 +23,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="26" align="left"/>
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="26" align="left"/>
 <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="26" align="left"/>
+
 <br />
 
 
@@ -41,6 +42,8 @@
 <img src="https://tailwindcss.com/" alt="tailwind" width="26" height="26" align="left"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="26" height="26" align="left"/>
 
+<br />
+
 ### Backend & Databases
 
 
@@ -54,11 +57,14 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="26" height="26" align="left"/>
 
 
+<br />
 ### Testing & Development Tools
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="26" height="26"/>
 <img src="https://jestjs.io" alt="jest" width="26" height="26" align="left"/>
 <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="26" height="26" align="left"/>
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="26" height="26" align="left"/>
+
+<br />
 
 ### Design & Creative Tools
 
@@ -71,12 +77,15 @@
 <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="26" height="26" align="left"/>
 <img src="https://helpx.adobe.com/content/dam/help/mnemonics/xd_app_RGB_2017.svg" alt="xd" width="26" height="26" align="left"/>
 
+<br />
+
 
 ### Game Development
 
 <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="26" height="26" align="left"/>
 <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="26" height="26" align="left"/>
 
+<br />
 
 
 ### Languages and Tools:
