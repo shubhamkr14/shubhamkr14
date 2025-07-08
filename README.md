@@ -13,7 +13,7 @@
 
 ### Frontend Development
 
-<img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*LvA59wJi3O9jTMQQsw_cRA.png" alt="nextjs" width="26" height="26" align="left"/>
+<img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*yqQpg5pkNNY2NCdcmqVstw.png" alt="nextjs" width="26" height="26" align="left"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="26" height="26" align="left"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="26" height="26" align="left"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="26" height="26" align="left"/>
