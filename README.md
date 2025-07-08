@@ -15,7 +15,7 @@
 <div>
 <img src="https://babeljs.io/img/babel.svg" alt="babel" width="35" height="26" align="left"/>
 </div>
-<img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="26" height="26" align="left"/>
+<img src="https://cdn.prod.website-files.com/58af4d18482a1fed7dfa4b7b/5c2e262fa7e43b28910c1830_white%20text.png" alt="canvasjs" width="26" height="26" align="left"/>
 <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="26" height="26" align="left"/>
 <img src="https://www.w3schools.com/css/" alt="css3" width="26" height="26" align="left"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="26" height="26" align="left"/>
