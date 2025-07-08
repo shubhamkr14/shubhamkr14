@@ -29,22 +29,7 @@
 <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="26" height="26" align="left"/>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="26" height="26" align="left"/>
-
-<br />
-
-### Backend & Databases
-
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="26" height="26" align="left"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="26" height="26" align="left"/>
-<img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="26" height="26" align="left"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="26" height="26" align="left"/>
-<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="26" height="26" align="left"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="26" height="26" align="left"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="26" height="26" align="left"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="26" height="26" align="left"/>
-
-
 <br />
 
 ### Testing & Development Tools
@@ -63,7 +48,7 @@
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="26" height="26" align="left"/>
 <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="26" height="26" align="left"/>
 <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="26" height="26" align="left"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="26" height="26" align="left"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/512px-Adobe_Photoshop_CC_icon.svg.png" alt="photoshop" width="26" height="26" align="left"/>
 <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="26" height="26" align="left"/>
 <img src="https://helpx.adobe.com/content/dam/help/mnemonics/xd_app_RGB_2017.svg" alt="xd" width="26" height="26" align="left"/>
 
