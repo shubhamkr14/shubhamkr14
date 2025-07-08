@@ -39,7 +39,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="26" height="26" align="left"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="26" height="26" align="left"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="26" height="26"/>
-<img src="https://tailwindcss.com/" alt="tailwind" width="26" height="26" align="left"/>
+<img src="[https://tailwindcss.com/](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg)" alt="tailwind" width="26" height="26" align="left"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="26" height="26" align="left"/>
 
 <br />
