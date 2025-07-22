@@ -1,4 +1,4 @@
-### Hello, I'm Shubham Kr. Singh 👋
+### 👋 Hello, I'm Shubham Kr. Singh 
 
 ## I'm a Developer, Creator, and Mentor!!
 
@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning Go Lang
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything
-- ⚡ I speak 2 languages ( English, Hindi)
+- ⚡ I speak 2 languages ( English, Hindi )
 - 😄 Pronouns: He/Him
 
 
